@@ -1,0 +1,176 @@
+{
+  "name": "ExportE3",
+  "description": "simple example queries on how tool works",
+  "url": "https://connect-imodelweb.bentley.com/imodeljs/?projectId=274343c1-7baf-4176-82c2-5acffc93e8fa&iModelId=e5cf8339-a581-403c-a46f-9c0e9eeba02e",
+  "folder": "./OLEOUTPUTE3",
+  "queries": {
+    "OLE Extraction-E3-ATDFXQSNKG.Sps ": {
+      " store": " OLEExtractionATDFXQSNKG.Sps ",
+      "query": "select * from ATDFXQSNKG.Sps"
+    },
+    "OLE Extraction-E3-ESHWZCVEZG.Sps ": {
+      " store": " OLEExtractionESHWZCVEZG.Sps ",
+      "query": "select * from ESHWZCVEZG.Sps"
+    },
+    "OLE Extraction-E3-Sps.Sps ": {
+      " store": " OLEExtractionSps.Sps ",
+      "query": "select * from Sps.Sps"
+    },
+    "OLE Extraction-E3-UOEPXBJCAL.Sps ": {
+      " store": " OLEExtractionUOEPXBJCAL.Sps ",
+      "query": "select * from UOEPXBJCAL.Sps"
+    },
+    "OLE Extraction-E3-WXUPEOTNBE.Sps ": {
+      " store": " OLEExtractionWXUPEOTNBE.Sps ",
+      "query": "select * from WXUPEOTNBE.Sps"
+    },
+    "OLE Extraction-E3-BIQOFHAZHK.Droptube ": {
+      " store": " OLEExtractionBIQOFHAZHK.Droptube ",
+      "query": "select * from BIQOFHAZHK.Droptube"
+    },
+    "OLE Extraction-E3-Droptube.Droptube ": {
+      " store": " OLEExtractionDroptube.Droptube ",
+      "query": "select * from Droptube.Droptube"
+    },
+    "OLE Extraction-E3-HMUEGZOGHN.Droptube ": {
+      " store": " OLEExtractionHMUEGZOGHN.Droptube ",
+      "query": "select * from HMUEGZOGHN.Droptube"
+    },
+    "OLE Extraction-E3-HUDCYYUNFO.Droptube ": {
+      " store": " OLEExtractionHUDCYYUNFO.Droptube ",
+      "query": "select * from HUDCYYUNFO.Droptube"
+    },
+    "OLE Extraction-E3-LNCTZDDLNZ.Droptube ": {
+      " store": " OLEExtractionLNCTZDDLNZ.Droptube ",
+      "query": "select * from LNCTZDDLNZ.Droptube"
+    },
+    "OLE Extraction-E3-LBCOAYAXXM.Structure ": {
+      " store": " OLEExtractionLBCOAYAXXM.Structure ",
+      "query": "select * from LBCOAYAXXM.Structure"
+    },
+    "OLE Extraction-E3-QPMMNMALSX.Structure ": {
+      " store": " OLEExtractionQPMMNMALSX.Structure ",
+      "query": "select * from QPMMNMALSX.Structure"
+    },
+    "OLE Extraction-E3-ANAMOMKEZI.Structure ": {
+      " store": " OLEExtractionANAMOMKEZI.Structure ",
+      "query": "select * from ANAMOMKEZI.Structure"
+    },
+    "OLE Extraction-E3-APRBCXERRX.Structure ": {
+      " store": " OLEExtractionAPRBCXERRX.Structure ",
+      "query": "select * from APRBCXERRX.Structure"
+    },
+    "OLE Extraction-E3-BIJOZIXAQP.Structure ": {
+      " store": " OLEExtractionBIJOZIXAQP.Structure ",
+      "query": "select * from BIJOZIXAQP.Structure"
+    },
+    "OLE Extraction-E3-BNOWGMYDWB.Structure ": {
+      " store": " OLEExtractionBNOWGMYDWB.Structure ",
+      "query": "select * from BNOWGMYDWB.Structure"
+    },
+    "OLE Extraction-E3-BRGSDGRDZU.Structure ": {
+      " store": " OLEExtractionBRGSDGRDZU.Structure ",
+      "query": "select * from BRGSDGRDZU.Structure"
+    },
+    "OLE Extraction-E3-GOTTPXLCNN.Structure ": {
+      " store": " OLEExtractionGOTTPXLCNN.Structure ",
+      "query": "select * from GOTTPXLCNN.Structure"
+    },
+    "OLE Extraction-E3-GSGKJIYZFE.Structure ": {
+      " store": " OLEExtractionGSGKJIYZFE.Structure ",
+      "query": "select * from GSGKJIYZFE.Structure"
+    },
+    "OLE Extraction-E3-HKWFJIIAWM.Structure ": {
+      " store": " OLEExtractionHKWFJIIAWM.Structure ",
+      "query": "select * from HKWFJIIAWM.Structure"
+    },
+    "OLE Extraction-E3-HUQFEVILIH.Structure ": {
+      " store": " OLEExtractionHUQFEVILIH.Structure ",
+      "query": "select * from HUQFEVILIH.Structure"
+    },
+    "OLE Extraction-E3-HVYYERYMBE.Structure ": {
+      " store": " OLEExtractionHVYYERYMBE.Structure ",
+      "query": "select * from HVYYERYMBE.Structure"
+    },
+    "OLE Extraction-E3-LHHXNLHAWF.Structure ": {
+      " store": " OLEExtractionLHHXNLHAWF.Structure ",
+      "query": "select * from LHHXNLHAWF.Structure"
+    },
+    "OLE Extraction-E3-MCQGVSTFSU.Structure ": {
+      " store": " OLEExtractionMCQGVSTFSU.Structure ",
+      "query": "select * from MCQGVSTFSU.Structure"
+    },
+    "OLE Extraction-E3-OAQYVASWTA.Structure ": {
+      " store": " OLEExtractionOAQYVASWTA.Structure ",
+      "query": "select * from OAQYVASWTA.Structure"
+    },
+    "OLE Extraction-E3-PTDWXPZCIL.Structure ": {
+      " store": " OLEExtractionPTDWXPZCIL.Structure ",
+      "query": "select * from PTDWXPZCIL.Structure"
+    },
+    "OLE Extraction-E3-QOAMIBCPQN.Structure ": {
+      " store": " OLEExtractionQOAMIBCPQN.Structure ",
+      "query": "select * from QOAMIBCPQN.Structure"
+    },
+    "OLE Extraction-E3-QRVUAORYHP.Structure ": {
+      " store": " OLEExtractionQRVUAORYHP.Structure ",
+      "query": "select * from QRVUAORYHP.Structure"
+    },
+    "OLE Extraction-E3-Structure.Structure ": {
+      " store": " OLEExtractionStructure.Structure ",
+      "query": "select * from Structure.Structure"
+    },
+    "OLE Extraction-E3-UBXFLRITLD.Structure ": {
+      " store": " OLEExtractionUBXFLRITLD.Structure ",
+      "query": "select * from UBXFLRITLD.Structure"
+    },
+    "OLE Extraction-E3-WWGRZHGYAB.Structure ": {
+      " store": " OLEExtractionWWGRZHGYAB.Structure ",
+      "query": "select * from WWGRZHGYAB.Structure"
+    },
+    "OLE Extraction-E3-XEXGKGCSKJ.Structure ": {
+      " store": " OLEExtractionXEXGKGCSKJ.Structure ",
+      "query": "select * from XEXGKGCSKJ.Structure"
+    },
+    "OLE Extraction-E3-XUTQDDJLKT.Structure ": {
+      " store": " OLEExtractionXUTQDDJLKT.Structure ",
+      "query": "select * from XUTQDDJLKT.Structure"
+    },
+    "OLE Extraction-E3-ZVHDTRRSOW.Structure ": {
+      " store": " OLEExtractionZVHDTRRSOW.Structure ",
+      "query": "select * from ZVHDTRRSOW.Structure"
+    },
+    "OLE Extraction-E3-GVRNXDUQZB.Wire ": {
+      " store": " OLEExtractionGVRNXDUQZB.Wire ",
+      "query": "select * from GVRNXDUQZB.Wire"
+    },
+    "OLE Extraction-E3-HLHDJBYSOK.Wire ": {
+      " store": " OLEExtractionHLHDJBYSOK.Wire ",
+      "query": "select * from HLHDJBYSOK.Wire"
+    },
+    "OLE Extraction-E3-Wire.Wire ": {
+      " store": " OLEExtractionWire.Wire ",
+      "query": "select * from Wire.Wire"
+    },
+    "OLE Extraction-E3-EHRHSLTIJV.WireSupport ": {
+      " store": " OLEExtractionEHRHSLTIJV.WireSupport ",
+      "query": "select * from EHRHSLTIJV.WireSupport"
+    },
+    "OLE Extraction-E3-OMUWLHSDDQ.WireSupport ": {
+      " store": " OLEExtractionOMUWLHSDDQ.WireSupport ",
+      "query": "select * from OMUWLHSDDQ.WireSupport"
+    },
+    "OLE Extraction-E3-SUMQXPJLEO.WireSupport ": {
+      " store": " OLEExtractionSUMQXPJLEO.WireSupport ",
+      "query": "select * from SUMQXPJLEO.WireSupport"
+    },
+    "OLE Extraction-E3-VGRRCIJVLL.WireSupport ": {
+      " store": " OLEExtractionVGRRCIJVLL.WireSupport ",
+      "query": "select * from VGRRCIJVLL.WireSupport"
+    },
+    "OLE Extraction-E3-WireSupport.WireSupport ": {
+      " store": " OLEExtractionWireSupport.WireSupport ",
+      "query": "select * from WireSupport.WireSupport"
+    }
+  }
+}

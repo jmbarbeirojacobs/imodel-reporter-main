@@ -1,0 +1,2 @@
+ECInstanceId;ECClassId;Model;LastMod;CodeSpec;CodeScope;CodeValue;UserLabel;Parent;FederationGuid;JsonProperties
+"0x110000026bb3";"GDPMDASSAR.Droptube";{"id":"0x2000006c9fc","relClassName":"BisCore.ModelContainsElements"};"2021-10-25T09:47:33.620Z";{"id":"0x1","relClassName":"BisCore.CodeSpecSpecifiesCode"};{"id":"0x1","relClassName":"BisCore.ElementScopesCode"};;"Droptube";;"f370cf2c-88d8-43bc-9d74-40518f6fd39f";

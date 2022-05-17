@@ -1,0 +1,740 @@
+{
+  "name": "ExportW4",
+  "description": "simple example queries on how tool works",
+  "url": "https://connect-imodelweb.bentley.com/imodeljs/?projectId=274343c1-7baf-4176-82c2-5acffc93e8fa&iModelId=9e1eb16e-8c71-4880-9dc8-c107eb21cdd3",
+  "folder": "./OLEOUTPUTW4",
+  "queries": {
+    "OLE Extraction-W4-GDYHPFIEEU.Droptube ": {
+      " store": " OLEExtractionGDYHPFIEEU.Droptube ",
+      "query": "select * from GDYHPFIEEU.Droptube"
+    },
+    "OLE Extraction-W4-BVRHMPKRCZ.Droptube ": {
+      " store": " OLEExtractionBVRHMPKRCZ.Droptube ",
+      "query": "select * from BVRHMPKRCZ.Droptube"
+    },
+    "OLE Extraction-W4-CSNESIXVKO.Droptube ": {
+      " store": " OLEExtractionCSNESIXVKO.Droptube ",
+      "query": "select * from CSNESIXVKO.Droptube"
+    },
+    "OLE Extraction-W4-HVFRWJODNC.Droptube ": {
+      " store": " OLEExtractionHVFRWJODNC.Droptube ",
+      "query": "select * from HVFRWJODNC.Droptube"
+    },
+    "OLE Extraction-W4-KEVOCDGQUP.Droptube ": {
+      " store": " OLEExtractionKEVOCDGQUP.Droptube ",
+      "query": "select * from KEVOCDGQUP.Droptube"
+    },
+    "OLE Extraction-W4-OEOZRQYXLR.Droptube ": {
+      " store": " OLEExtractionOEOZRQYXLR.Droptube ",
+      "query": "select * from OEOZRQYXLR.Droptube"
+    },
+    "OLE Extraction-W4-TLARSMFRSN.Droptube ": {
+      " store": " OLEExtractionTLARSMFRSN.Droptube ",
+      "query": "select * from TLARSMFRSN.Droptube"
+    },
+    "OLE Extraction-W4-UFQADQQGYT.Droptube ": {
+      " store": " OLEExtractionUFQADQQGYT.Droptube ",
+      "query": "select * from UFQADQQGYT.Droptube"
+    },
+    "OLE Extraction-W4-WRVRQBWVQW.Droptube ": {
+      " store": " OLEExtractionWRVRQBWVQW.Droptube ",
+      "query": "select * from WRVRQBWVQW.Droptube"
+    },
+    "OLE Extraction-W4-XPJQVEPYEP.Droptube ": {
+      " store": " OLEExtractionXPJQVEPYEP.Droptube ",
+      "query": "select * from XPJQVEPYEP.Droptube"
+    },
+    "OLE Extraction-W4-ZCWJVKZSKV.Droptube ": {
+      " store": " OLEExtractionZCWJVKZSKV.Droptube ",
+      "query": "select * from ZCWJVKZSKV.Droptube"
+    },
+    "OLE Extraction-W4-FFFFAPQHWB.Droptube ": {
+      " store": " OLEExtractionFFFFAPQHWB.Droptube ",
+      "query": "select * from FFFFAPQHWB.Droptube"
+    },
+    "OLE Extraction-W4-IWMCTEVSFR.Droptube ": {
+      " store": " OLEExtractionIWMCTEVSFR.Droptube ",
+      "query": "select * from IWMCTEVSFR.Droptube"
+    },
+    "OLE Extraction-W4-KQKXJATYJE.Droptube ": {
+      " store": " OLEExtractionKQKXJATYJE.Droptube ",
+      "query": "select * from KQKXJATYJE.Droptube"
+    },
+    "OLE Extraction-W4-LRBUYCNJNX.Droptube ": {
+      " store": " OLEExtractionLRBUYCNJNX.Droptube ",
+      "query": "select * from LRBUYCNJNX.Droptube"
+    },
+    "OLE Extraction-W4-PHTZYLVJLI.Droptube ": {
+      " store": " OLEExtractionPHTZYLVJLI.Droptube ",
+      "query": "select * from PHTZYLVJLI.Droptube"
+    },
+    "OLE Extraction-W4-RYKAGOMLHL.Droptube ": {
+      " store": " OLEExtractionRYKAGOMLHL.Droptube ",
+      "query": "select * from RYKAGOMLHL.Droptube"
+    },
+    "OLE Extraction-W4-URJXBOAOZD.Droptube ": {
+      " store": " OLEExtractionURJXBOAOZD.Droptube ",
+      "query": "select * from URJXBOAOZD.Droptube"
+    },
+    "OLE Extraction-W4-ZXHFPYBJVW.Droptube ": {
+      " store": " OLEExtractionZXHFPYBJVW.Droptube ",
+      "query": "select * from ZXHFPYBJVW.Droptube"
+    },
+    "OLE Extraction-W4-EJYSINBMFA.Droptube ": {
+      " store": " OLEExtractionEJYSINBMFA.Droptube ",
+      "query": "select * from EJYSINBMFA.Droptube"
+    },
+    "OLE Extraction-W4-IHTEJQEEJD.Droptube ": {
+      " store": " OLEExtractionIHTEJQEEJD.Droptube ",
+      "query": "select * from IHTEJQEEJD.Droptube"
+    },
+    "OLE Extraction-W4-LIPKBFSAUH.Droptube ": {
+      " store": " OLEExtractionLIPKBFSAUH.Droptube ",
+      "query": "select * from LIPKBFSAUH.Droptube"
+    },
+    "OLE Extraction-W4-MYKNDDTZRQ.Droptube ": {
+      " store": " OLEExtractionMYKNDDTZRQ.Droptube ",
+      "query": "select * from MYKNDDTZRQ.Droptube"
+    },
+    "OLE Extraction-W4-PGYJJSWAZH.Droptube ": {
+      " store": " OLEExtractionPGYJJSWAZH.Droptube ",
+      "query": "select * from PGYJJSWAZH.Droptube"
+    },
+    "OLE Extraction-W4-RSWSDICMFE.Droptube ": {
+      " store": " OLEExtractionRSWSDICMFE.Droptube ",
+      "query": "select * from RSWSDICMFE.Droptube"
+    },
+    "OLE Extraction-W4-RZZANLYPCD.Droptube ": {
+      " store": " OLEExtractionRZZANLYPCD.Droptube ",
+      "query": "select * from RZZANLYPCD.Droptube"
+    },
+    "OLE Extraction-W4-SKYLJCFWEA.Droptube ": {
+      " store": " OLEExtractionSKYLJCFWEA.Droptube ",
+      "query": "select * from SKYLJCFWEA.Droptube"
+    },
+    "OLE Extraction-W4-SMAFYZYIVD.Droptube ": {
+      " store": " OLEExtractionSMAFYZYIVD.Droptube ",
+      "query": "select * from SMAFYZYIVD.Droptube"
+    },
+    "OLE Extraction-W4-WNIMGQYKVL.Droptube ": {
+      " store": " OLEExtractionWNIMGQYKVL.Droptube ",
+      "query": "select * from WNIMGQYKVL.Droptube"
+    },
+    "OLE Extraction-W4-CTMBEKBTMZ.Droptube ": {
+      " store": " OLEExtractionCTMBEKBTMZ.Droptube ",
+      "query": "select * from CTMBEKBTMZ.Droptube"
+    },
+    "OLE Extraction-W4-NHPRBCFHWD.Droptube ": {
+      " store": " OLEExtractionNHPRBCFHWD.Droptube ",
+      "query": "select * from NHPRBCFHWD.Droptube"
+    },
+    "OLE Extraction-W4-RTMVNPYUIA.Droptube ": {
+      " store": " OLEExtractionRTMVNPYUIA.Droptube ",
+      "query": "select * from RTMVNPYUIA.Droptube"
+    },
+    "OLE Extraction-W4-SGEJAGZEMK.Droptube ": {
+      " store": " OLEExtractionSGEJAGZEMK.Droptube ",
+      "query": "select * from SGEJAGZEMK.Droptube"
+    },
+    "OLE Extraction-W4-XLBYUHPCYH.Droptube ": {
+      " store": " OLEExtractionXLBYUHPCYH.Droptube ",
+      "query": "select * from XLBYUHPCYH.Droptube"
+    },
+    "OLE Extraction-W4-UBIJGUASDW.Sps ": {
+      " store": " OLEExtractionUBIJGUASDW.Sps ",
+      "query": "select * from UBIJGUASDW.Sps"
+    },
+    "OLE Extraction-W4-GYXMKHMCBB.Sps ": {
+      " store": " OLEExtractionGYXMKHMCBB.Sps ",
+      "query": "select * from GYXMKHMCBB.Sps"
+    },
+    "OLE Extraction-W4-IFSJERGPTJ.Sps ": {
+      " store": " OLEExtractionIFSJERGPTJ.Sps ",
+      "query": "select * from IFSJERGPTJ.Sps"
+    },
+    "OLE Extraction-W4-JIVBWCPMNE.Sps ": {
+      " store": " OLEExtractionJIVBWCPMNE.Sps ",
+      "query": "select * from JIVBWCPMNE.Sps"
+    },
+    "OLE Extraction-W4-JKMFIVPIWV.Sps ": {
+      " store": " OLEExtractionJKMFIVPIWV.Sps ",
+      "query": "select * from JKMFIVPIWV.Sps"
+    },
+    "OLE Extraction-W4-JLYZPGUEQA.Sps ": {
+      " store": " OLEExtractionJLYZPGUEQA.Sps ",
+      "query": "select * from JLYZPGUEQA.Sps"
+    },
+    "OLE Extraction-W4-KUIJFMIIEB.Sps ": {
+      " store": " OLEExtractionKUIJFMIIEB.Sps ",
+      "query": "select * from KUIJFMIIEB.Sps"
+    },
+    "OLE Extraction-W4-PLLJCGAEZY.Sps ": {
+      " store": " OLEExtractionPLLJCGAEZY.Sps ",
+      "query": "select * from PLLJCGAEZY.Sps"
+    },
+    "OLE Extraction-W4-QXWXVYZYBX.Sps ": {
+      " store": " OLEExtractionQXWXVYZYBX.Sps ",
+      "query": "select * from QXWXVYZYBX.Sps"
+    },
+    "OLE Extraction-W4-ZDVZLHSGOK.Sps ": {
+      " store": " OLEExtractionZDVZLHSGOK.Sps ",
+      "query": "select * from ZDVZLHSGOK.Sps"
+    },
+    "OLE Extraction-W4-ZKKASJWVER.Sps ": {
+      " store": " OLEExtractionZKKASJWVER.Sps ",
+      "query": "select * from ZKKASJWVER.Sps"
+    },
+    "OLE Extraction-W4-CEYSSEOEJY.Sps ": {
+      " store": " OLEExtractionCEYSSEOEJY.Sps ",
+      "query": "select * from CEYSSEOEJY.Sps"
+    },
+    "OLE Extraction-W4-FPCCPERTLV.Sps ": {
+      " store": " OLEExtractionFPCCPERTLV.Sps ",
+      "query": "select * from FPCCPERTLV.Sps"
+    },
+    "OLE Extraction-W4-FTNOYTMXTD.Sps ": {
+      " store": " OLEExtractionFTNOYTMXTD.Sps ",
+      "query": "select * from FTNOYTMXTD.Sps"
+    },
+    "OLE Extraction-W4-HPWMTSTMES.Sps ": {
+      " store": " OLEExtractionHPWMTSTMES.Sps ",
+      "query": "select * from HPWMTSTMES.Sps"
+    },
+    "OLE Extraction-W4-JLDSRCZNVD.Sps ": {
+      " store": " OLEExtractionJLDSRCZNVD.Sps ",
+      "query": "select * from JLDSRCZNVD.Sps"
+    },
+    "OLE Extraction-W4-WTKCYPHSKR.Sps ": {
+      " store": " OLEExtractionWTKCYPHSKR.Sps ",
+      "query": "select * from WTKCYPHSKR.Sps"
+    },
+    "OLE Extraction-W4-XZMSKCHPST.Sps ": {
+      " store": " OLEExtractionXZMSKCHPST.Sps ",
+      "query": "select * from XZMSKCHPST.Sps"
+    },
+    "OLE Extraction-W4-YATTRYBLSD.Sps ": {
+      " store": " OLEExtractionYATTRYBLSD.Sps ",
+      "query": "select * from YATTRYBLSD.Sps"
+    },
+    "OLE Extraction-W4-ABIWNOLLZY.Sps ": {
+      " store": " OLEExtractionABIWNOLLZY.Sps ",
+      "query": "select * from ABIWNOLLZY.Sps"
+    },
+    "OLE Extraction-W4-EZFLOHVSRH.Sps ": {
+      " store": " OLEExtractionEZFLOHVSRH.Sps ",
+      "query": "select * from EZFLOHVSRH.Sps"
+    },
+    "OLE Extraction-W4-GTXSTCYJXL.Sps ": {
+      " store": " OLEExtractionGTXSTCYJXL.Sps ",
+      "query": "select * from GTXSTCYJXL.Sps"
+    },
+    "OLE Extraction-W4-NCOJHMVJDB.Sps ": {
+      " store": " OLEExtractionNCOJHMVJDB.Sps ",
+      "query": "select * from NCOJHMVJDB.Sps"
+    },
+    "OLE Extraction-W4-SSWXOGTOJL.Sps ": {
+      " store": " OLEExtractionSSWXOGTOJL.Sps ",
+      "query": "select * from SSWXOGTOJL.Sps"
+    },
+    "OLE Extraction-W4-TNRWOAHOQE.Sps ": {
+      " store": " OLEExtractionTNRWOAHOQE.Sps ",
+      "query": "select * from TNRWOAHOQE.Sps"
+    },
+    "OLE Extraction-W4-TRUVVXLVKL.Sps ": {
+      " store": " OLEExtractionTRUVVXLVKL.Sps ",
+      "query": "select * from TRUVVXLVKL.Sps"
+    },
+    "OLE Extraction-W4-UCRUYBWDED.Sps ": {
+      " store": " OLEExtractionUCRUYBWDED.Sps ",
+      "query": "select * from UCRUYBWDED.Sps"
+    },
+    "OLE Extraction-W4-UHXWLHPSKS.Sps ": {
+      " store": " OLEExtractionUHXWLHPSKS.Sps ",
+      "query": "select * from UHXWLHPSKS.Sps"
+    },
+    "OLE Extraction-W4-VTDGYSRAWY.Sps ": {
+      " store": " OLEExtractionVTDGYSRAWY.Sps ",
+      "query": "select * from VTDGYSRAWY.Sps"
+    },
+    "OLE Extraction-W4-CTIJEOEBXD.Sps ": {
+      " store": " OLEExtractionCTIJEOEBXD.Sps ",
+      "query": "select * from CTIJEOEBXD.Sps"
+    },
+    "OLE Extraction-W4-DWELWVUVVM.Sps ": {
+      " store": " OLEExtractionDWELWVUVVM.Sps ",
+      "query": "select * from DWELWVUVVM.Sps"
+    },
+    "OLE Extraction-W4-GOYUISPWTX.Sps ": {
+      " store": " OLEExtractionGOYUISPWTX.Sps ",
+      "query": "select * from GOYUISPWTX.Sps"
+    },
+    "OLE Extraction-W4-JACDXKODWM.Sps ": {
+      " store": " OLEExtractionJACDXKODWM.Sps ",
+      "query": "select * from JACDXKODWM.Sps"
+    },
+    "OLE Extraction-W4-XYNXUIEYIN.Sps ": {
+      " store": " OLEExtractionXYNXUIEYIN.Sps ",
+      "query": "select * from XYNXUIEYIN.Sps"
+    },
+    "OLE Extraction-W4-YSSCNFUHYN.Structure ": {
+      " store": " OLEExtractionYSSCNFUHYN.Structure ",
+      "query": "select * from YSSCNFUHYN.Structure"
+    },
+    "OLE Extraction-W4-BOHJDBMNQP.Structure ": {
+      " store": " OLEExtractionBOHJDBMNQP.Structure ",
+      "query": "select * from BOHJDBMNQP.Structure"
+    },
+    "OLE Extraction-W4-CGTQYTBYAP.Structure ": {
+      " store": " OLEExtractionCGTQYTBYAP.Structure ",
+      "query": "select * from CGTQYTBYAP.Structure"
+    },
+    "OLE Extraction-W4-FQGUJYQXHT.Structure ": {
+      " store": " OLEExtractionFQGUJYQXHT.Structure ",
+      "query": "select * from FQGUJYQXHT.Structure"
+    },
+    "OLE Extraction-W4-JRIGZXQVOC.Structure ": {
+      " store": " OLEExtractionJRIGZXQVOC.Structure ",
+      "query": "select * from JRIGZXQVOC.Structure"
+    },
+    "OLE Extraction-W4-LMQWYNRQVD.Structure ": {
+      " store": " OLEExtractionLMQWYNRQVD.Structure ",
+      "query": "select * from LMQWYNRQVD.Structure"
+    },
+    "OLE Extraction-W4-LMZVHLQDWF.Structure ": {
+      " store": " OLEExtractionLMZVHLQDWF.Structure ",
+      "query": "select * from LMZVHLQDWF.Structure"
+    },
+    "OLE Extraction-W4-PAUAUOEUZV.Structure ": {
+      " store": " OLEExtractionPAUAUOEUZV.Structure ",
+      "query": "select * from PAUAUOEUZV.Structure"
+    },
+    "OLE Extraction-W4-RKRMDCUMQH.Structure ": {
+      " store": " OLEExtractionRKRMDCUMQH.Structure ",
+      "query": "select * from RKRMDCUMQH.Structure"
+    },
+    "OLE Extraction-W4-VKPVNEGKLG.Structure ": {
+      " store": " OLEExtractionVKPVNEGKLG.Structure ",
+      "query": "select * from VKPVNEGKLG.Structure"
+    },
+    "OLE Extraction-W4-YVVUMLQMAP.Structure ": {
+      " store": " OLEExtractionYVVUMLQMAP.Structure ",
+      "query": "select * from YVVUMLQMAP.Structure"
+    },
+    "OLE Extraction-W4-CDHXYURSSV.Structure ": {
+      " store": " OLEExtractionCDHXYURSSV.Structure ",
+      "query": "select * from CDHXYURSSV.Structure"
+    },
+    "OLE Extraction-W4-DTPYEMPXXE.Structure ": {
+      " store": " OLEExtractionDTPYEMPXXE.Structure ",
+      "query": "select * from DTPYEMPXXE.Structure"
+    },
+    "OLE Extraction-W4-FUHKZTQMJJ.Structure ": {
+      " store": " OLEExtractionFUHKZTQMJJ.Structure ",
+      "query": "select * from FUHKZTQMJJ.Structure"
+    },
+    "OLE Extraction-W4-HYMBZLPBOV.Structure ": {
+      " store": " OLEExtractionHYMBZLPBOV.Structure ",
+      "query": "select * from HYMBZLPBOV.Structure"
+    },
+    "OLE Extraction-W4-LMGHHJGVUH.Structure ": {
+      " store": " OLEExtractionLMGHHJGVUH.Structure ",
+      "query": "select * from LMGHHJGVUH.Structure"
+    },
+    "OLE Extraction-W4-LTIWHNXPVQ.Structure ": {
+      " store": " OLEExtractionLTIWHNXPVQ.Structure ",
+      "query": "select * from LTIWHNXPVQ.Structure"
+    },
+    "OLE Extraction-W4-QLNVXPIYMO.Structure ": {
+      " store": " OLEExtractionQLNVXPIYMO.Structure ",
+      "query": "select * from QLNVXPIYMO.Structure"
+    },
+    "OLE Extraction-W4-QOFKGNZPII.Structure ": {
+      " store": " OLEExtractionQOFKGNZPII.Structure ",
+      "query": "select * from QOFKGNZPII.Structure"
+    },
+    "OLE Extraction-W4-SPRSWPODDF.Structure ": {
+      " store": " OLEExtractionSPRSWPODDF.Structure ",
+      "query": "select * from SPRSWPODDF.Structure"
+    },
+    "OLE Extraction-W4-WXXUEQYWWV.Structure ": {
+      " store": " OLEExtractionWXXUEQYWWV.Structure ",
+      "query": "select * from WXXUEQYWWV.Structure"
+    },
+    "OLE Extraction-W4-AFPPGQRSZY.Structure ": {
+      " store": " OLEExtractionAFPPGQRSZY.Structure ",
+      "query": "select * from AFPPGQRSZY.Structure"
+    },
+    "OLE Extraction-W4-CBSCJJEVTF.Structure ": {
+      " store": " OLEExtractionCBSCJJEVTF.Structure ",
+      "query": "select * from CBSCJJEVTF.Structure"
+    },
+    "OLE Extraction-W4-CGMZDKDUBS.Structure ": {
+      " store": " OLEExtractionCGMZDKDUBS.Structure ",
+      "query": "select * from CGMZDKDUBS.Structure"
+    },
+    "OLE Extraction-W4-EUYAKYUDYP.Structure ": {
+      " store": " OLEExtractionEUYAKYUDYP.Structure ",
+      "query": "select * from EUYAKYUDYP.Structure"
+    },
+    "OLE Extraction-W4-EUYTDZBSPO.Structure ": {
+      " store": " OLEExtractionEUYTDZBSPO.Structure ",
+      "query": "select * from EUYTDZBSPO.Structure"
+    },
+    "OLE Extraction-W4-FKXNZZGCUK.Structure ": {
+      " store": " OLEExtractionFKXNZZGCUK.Structure ",
+      "query": "select * from FKXNZZGCUK.Structure"
+    },
+    "OLE Extraction-W4-FOLDWTVTSW.Structure ": {
+      " store": " OLEExtractionFOLDWTVTSW.Structure ",
+      "query": "select * from FOLDWTVTSW.Structure"
+    },
+    "OLE Extraction-W4-HGDEFRSIAE.Structure ": {
+      " store": " OLEExtractionHGDEFRSIAE.Structure ",
+      "query": "select * from HGDEFRSIAE.Structure"
+    },
+    "OLE Extraction-W4-HRXPMYUIMX.Structure ": {
+      " store": " OLEExtractionHRXPMYUIMX.Structure ",
+      "query": "select * from HRXPMYUIMX.Structure"
+    },
+    "OLE Extraction-W4-LDXJLXJVMD.Structure ": {
+      " store": " OLEExtractionLDXJLXJVMD.Structure ",
+      "query": "select * from LDXJLXJVMD.Structure"
+    },
+    "OLE Extraction-W4-MOQLCWFYJZ.Structure ": {
+      " store": " OLEExtractionMOQLCWFYJZ.Structure ",
+      "query": "select * from MOQLCWFYJZ.Structure"
+    },
+    "OLE Extraction-W4-QCBUIWDKJN.Structure ": {
+      " store": " OLEExtractionQCBUIWDKJN.Structure ",
+      "query": "select * from QCBUIWDKJN.Structure"
+    },
+    "OLE Extraction-W4-VAJFODRXNL.Structure ": {
+      " store": " OLEExtractionVAJFODRXNL.Structure ",
+      "query": "select * from VAJFODRXNL.Structure"
+    },
+    "OLE Extraction-W4-VFTBUJGFWA.Structure ": {
+      " store": " OLEExtractionVFTBUJGFWA.Structure ",
+      "query": "select * from VFTBUJGFWA.Structure"
+    },
+    "OLE Extraction-W4-VYSSIKIUCF.Structure ": {
+      " store": " OLEExtractionVYSSIKIUCF.Structure ",
+      "query": "select * from VYSSIKIUCF.Structure"
+    },
+    "OLE Extraction-W4-XWCOZONBZU.Structure ": {
+      " store": " OLEExtractionXWCOZONBZU.Structure ",
+      "query": "select * from XWCOZONBZU.Structure"
+    },
+    "OLE Extraction-W4-YJGCXZCRUT.Structure ": {
+      " store": " OLEExtractionYJGCXZCRUT.Structure ",
+      "query": "select * from YJGCXZCRUT.Structure"
+    },
+    "OLE Extraction-W4-ZIKVEDQUHY.Structure ": {
+      " store": " OLEExtractionZIKVEDQUHY.Structure ",
+      "query": "select * from ZIKVEDQUHY.Structure"
+    },
+    "OLE Extraction-W4-DKMTNOOLCU.Structure ": {
+      " store": " OLEExtractionDKMTNOOLCU.Structure ",
+      "query": "select * from DKMTNOOLCU.Structure"
+    },
+    "OLE Extraction-W4-EZFIJBIDPJ.Structure ": {
+      " store": " OLEExtractionEZFIJBIDPJ.Structure ",
+      "query": "select * from EZFIJBIDPJ.Structure"
+    },
+    "OLE Extraction-W4-HSNSCDADLY.Structure ": {
+      " store": " OLEExtractionHSNSCDADLY.Structure ",
+      "query": "select * from HSNSCDADLY.Structure"
+    },
+    "OLE Extraction-W4-PATLWEYPPN.Structure ": {
+      " store": " OLEExtractionPATLWEYPPN.Structure ",
+      "query": "select * from PATLWEYPPN.Structure"
+    },
+    "OLE Extraction-W4-RGDSZYBNET.Structure ": {
+      " store": " OLEExtractionRGDSZYBNET.Structure ",
+      "query": "select * from RGDSZYBNET.Structure"
+    },
+    "OLE Extraction-W4-SCCKQMSQOW.Structure ": {
+      " store": " OLEExtractionSCCKQMSQOW.Structure ",
+      "query": "select * from SCCKQMSQOW.Structure"
+    },
+    "OLE Extraction-W4-VKNQNNRFNS.Structure ": {
+      " store": " OLEExtractionVKNQNNRFNS.Structure ",
+      "query": "select * from VKNQNNRFNS.Structure"
+    },
+    "OLE Extraction-W4-BAIYUOFGYP.Wire ": {
+      " store": " OLEExtractionBAIYUOFGYP.Wire ",
+      "query": "select * from BAIYUOFGYP.Wire"
+    },
+    "OLE Extraction-W4-FCCBXNFXTY.Wire ": {
+      " store": " OLEExtractionFCCBXNFXTY.Wire ",
+      "query": "select * from FCCBXNFXTY.Wire"
+    },
+    "OLE Extraction-W4-HVBFHYGFLA.Wire ": {
+      " store": " OLEExtractionHVBFHYGFLA.Wire ",
+      "query": "select * from HVBFHYGFLA.Wire"
+    },
+    "OLE Extraction-W4-IZDJWHVTNE.Wire ": {
+      " store": " OLEExtractionIZDJWHVTNE.Wire ",
+      "query": "select * from IZDJWHVTNE.Wire"
+    },
+    "OLE Extraction-W4-PNEFPGTJLA.Wire ": {
+      " store": " OLEExtractionPNEFPGTJLA.Wire ",
+      "query": "select * from PNEFPGTJLA.Wire"
+    },
+    "OLE Extraction-W4-RCGIJOGUEI.Wire ": {
+      " store": " OLEExtractionRCGIJOGUEI.Wire ",
+      "query": "select * from RCGIJOGUEI.Wire"
+    },
+    "OLE Extraction-W4-XYNBJOIATE.Wire ": {
+      " store": " OLEExtractionXYNBJOIATE.Wire ",
+      "query": "select * from XYNBJOIATE.Wire"
+    },
+    "OLE Extraction-W4-BAKNISJVFN.Wire ": {
+      " store": " OLEExtractionBAKNISJVFN.Wire ",
+      "query": "select * from BAKNISJVFN.Wire"
+    },
+    "OLE Extraction-W4-GGJLWLKNIW.Wire ": {
+      " store": " OLEExtractionGGJLWLKNIW.Wire ",
+      "query": "select * from GGJLWLKNIW.Wire"
+    },
+    "OLE Extraction-W4-PRCXUWKLNM.Wire ": {
+      " store": " OLEExtractionPRCXUWKLNM.Wire ",
+      "query": "select * from PRCXUWKLNM.Wire"
+    },
+    "OLE Extraction-W4-PXEGDAULFC.Wire ": {
+      " store": " OLEExtractionPXEGDAULFC.Wire ",
+      "query": "select * from PXEGDAULFC.Wire"
+    },
+    "OLE Extraction-W4-RCLVPQEEEB.Wire ": {
+      " store": " OLEExtractionRCLVPQEEEB.Wire ",
+      "query": "select * from RCLVPQEEEB.Wire"
+    },
+    "OLE Extraction-W4-UONCKDJRRE.Wire ": {
+      " store": " OLEExtractionUONCKDJRRE.Wire ",
+      "query": "select * from UONCKDJRRE.Wire"
+    },
+    "OLE Extraction-W4-VSITUVEDGU.Wire ": {
+      " store": " OLEExtractionVSITUVEDGU.Wire ",
+      "query": "select * from VSITUVEDGU.Wire"
+    },
+    "OLE Extraction-W4-DKIFMJPIDG.Wire ": {
+      " store": " OLEExtractionDKIFMJPIDG.Wire ",
+      "query": "select * from DKIFMJPIDG.Wire"
+    },
+    "OLE Extraction-W4-LSEDPOEISC.Wire ": {
+      " store": " OLEExtractionLSEDPOEISC.Wire ",
+      "query": "select * from LSEDPOEISC.Wire"
+    },
+    "OLE Extraction-W4-PTLYFCTEZO.Wire ": {
+      " store": " OLEExtractionPTLYFCTEZO.Wire ",
+      "query": "select * from PTLYFCTEZO.Wire"
+    },
+    "OLE Extraction-W4-VESACTOFBE.Wire ": {
+      " store": " OLEExtractionVESACTOFBE.Wire ",
+      "query": "select * from VESACTOFBE.Wire"
+    },
+    "OLE Extraction-W4-XLFGPISPXN.Wire ": {
+      " store": " OLEExtractionXLFGPISPXN.Wire ",
+      "query": "select * from XLFGPISPXN.Wire"
+    },
+    "OLE Extraction-W4-XPABMWQUKT.Wire ": {
+      " store": " OLEExtractionXPABMWQUKT.Wire ",
+      "query": "select * from XPABMWQUKT.Wire"
+    },
+    "OLE Extraction-W4-BOZVFFTECN.Wire ": {
+      " store": " OLEExtractionBOZVFFTECN.Wire ",
+      "query": "select * from BOZVFFTECN.Wire"
+    },
+    "OLE Extraction-W4-IDZWHMHQPC.Wire ": {
+      " store": " OLEExtractionIDZWHMHQPC.Wire ",
+      "query": "select * from IDZWHMHQPC.Wire"
+    },
+    "OLE Extraction-W4-PHOWGSKQLW.Wire ": {
+      " store": " OLEExtractionPHOWGSKQLW.Wire ",
+      "query": "select * from PHOWGSKQLW.Wire"
+    },
+    "OLE Extraction-W4-YGAZMHKERH.Wire ": {
+      " store": " OLEExtractionYGAZMHKERH.Wire ",
+      "query": "select * from YGAZMHKERH.Wire"
+    },
+    "OLE Extraction-W4-ZWDECUPEAC.Wire ": {
+      " store": " OLEExtractionZWDECUPEAC.Wire ",
+      "query": "select * from ZWDECUPEAC.Wire"
+    },
+    "OLE Extraction-W4-QTANMZCCNL.WireSupport ": {
+      " store": " OLEExtractionQTANMZCCNL.WireSupport ",
+      "query": "select * from QTANMZCCNL.WireSupport"
+    },
+    "OLE Extraction-W4-DIHCZGWXLH.WireSupport ": {
+      " store": " OLEExtractionDIHCZGWXLH.WireSupport ",
+      "query": "select * from DIHCZGWXLH.WireSupport"
+    },
+    "OLE Extraction-W4-EWBZKGCUXM.WireSupport ": {
+      " store": " OLEExtractionEWBZKGCUXM.WireSupport ",
+      "query": "select * from EWBZKGCUXM.WireSupport"
+    },
+    "OLE Extraction-W4-FSMUPOSNGL.WireSupport ": {
+      " store": " OLEExtractionFSMUPOSNGL.WireSupport ",
+      "query": "select * from FSMUPOSNGL.WireSupport"
+    },
+    "OLE Extraction-W4-LVOQPCCSTU.WireSupport ": {
+      " store": " OLEExtractionLVOQPCCSTU.WireSupport ",
+      "query": "select * from LVOQPCCSTU.WireSupport"
+    },
+    "OLE Extraction-W4-OJOXNDTPTG.WireSupport ": {
+      " store": " OLEExtractionOJOXNDTPTG.WireSupport ",
+      "query": "select * from OJOXNDTPTG.WireSupport"
+    },
+    "OLE Extraction-W4-PYZBUOMACP.WireSupport ": {
+      " store": " OLEExtractionPYZBUOMACP.WireSupport ",
+      "query": "select * from PYZBUOMACP.WireSupport"
+    },
+    "OLE Extraction-W4-RFDOYKGGFJ.WireSupport ": {
+      " store": " OLEExtractionRFDOYKGGFJ.WireSupport ",
+      "query": "select * from RFDOYKGGFJ.WireSupport"
+    },
+    "OLE Extraction-W4-VBLSHXULNV.WireSupport ": {
+      " store": " OLEExtractionVBLSHXULNV.WireSupport ",
+      "query": "select * from VBLSHXULNV.WireSupport"
+    },
+    "OLE Extraction-W4-XDZZMHLWFZ.WireSupport ": {
+      " store": " OLEExtractionXDZZMHLWFZ.WireSupport ",
+      "query": "select * from XDZZMHLWFZ.WireSupport"
+    },
+    "OLE Extraction-W4-YERASLPFZT.WireSupport ": {
+      " store": " OLEExtractionYERASLPFZT.WireSupport ",
+      "query": "select * from YERASLPFZT.WireSupport"
+    },
+    "OLE Extraction-W4-FGUTYEWYRO.WireSupport ": {
+      " store": " OLEExtractionFGUTYEWYRO.WireSupport ",
+      "query": "select * from FGUTYEWYRO.WireSupport"
+    },
+    "OLE Extraction-W4-GHCLASOQGU.WireSupport ": {
+      " store": " OLEExtractionGHCLASOQGU.WireSupport ",
+      "query": "select * from GHCLASOQGU.WireSupport"
+    },
+    "OLE Extraction-W4-KBBUGJORSF.WireSupport ": {
+      " store": " OLEExtractionKBBUGJORSF.WireSupport ",
+      "query": "select * from KBBUGJORSF.WireSupport"
+    },
+    "OLE Extraction-W4-QIKZBDNNPD.WireSupport ": {
+      " store": " OLEExtractionQIKZBDNNPD.WireSupport ",
+      "query": "select * from QIKZBDNNPD.WireSupport"
+    },
+    "OLE Extraction-W4-QQJGHAVSLG.WireSupport ": {
+      " store": " OLEExtractionQQJGHAVSLG.WireSupport ",
+      "query": "select * from QQJGHAVSLG.WireSupport"
+    },
+    "OLE Extraction-W4-RQAIOVGKBU.WireSupport ": {
+      " store": " OLEExtractionRQAIOVGKBU.WireSupport ",
+      "query": "select * from RQAIOVGKBU.WireSupport"
+    },
+    "OLE Extraction-W4-TSVVLZUGLO.WireSupport ": {
+      " store": " OLEExtractionTSVVLZUGLO.WireSupport ",
+      "query": "select * from TSVVLZUGLO.WireSupport"
+    },
+    "OLE Extraction-W4-UGJEHPBCOF.WireSupport ": {
+      " store": " OLEExtractionUGJEHPBCOF.WireSupport ",
+      "query": "select * from UGJEHPBCOF.WireSupport"
+    },
+    "OLE Extraction-W4-VCKXIHYBWW.WireSupport ": {
+      " store": " OLEExtractionVCKXIHYBWW.WireSupport ",
+      "query": "select * from VCKXIHYBWW.WireSupport"
+    },
+    "OLE Extraction-W4-WMBVQZJLSD.WireSupport ": {
+      " store": " OLEExtractionWMBVQZJLSD.WireSupport ",
+      "query": "select * from WMBVQZJLSD.WireSupport"
+    },
+    "OLE Extraction-W4-AYPTQTIPIM.WireSupport ": {
+      " store": " OLEExtractionAYPTQTIPIM.WireSupport ",
+      "query": "select * from AYPTQTIPIM.WireSupport"
+    },
+    "OLE Extraction-W4-CHGUSAFOZW.WireSupport ": {
+      " store": " OLEExtractionCHGUSAFOZW.WireSupport ",
+      "query": "select * from CHGUSAFOZW.WireSupport"
+    },
+    "OLE Extraction-W4-CKBTIKBRZL.WireSupport ": {
+      " store": " OLEExtractionCKBTIKBRZL.WireSupport ",
+      "query": "select * from CKBTIKBRZL.WireSupport"
+    },
+    "OLE Extraction-W4-CLZSPAEMIZ.WireSupport ": {
+      " store": " OLEExtractionCLZSPAEMIZ.WireSupport ",
+      "query": "select * from CLZSPAEMIZ.WireSupport"
+    },
+    "OLE Extraction-W4-DEVUQOWZBL.WireSupport ": {
+      " store": " OLEExtractionDEVUQOWZBL.WireSupport ",
+      "query": "select * from DEVUQOWZBL.WireSupport"
+    },
+    "OLE Extraction-W4-GMRMYQGXMV.WireSupport ": {
+      " store": " OLEExtractionGMRMYQGXMV.WireSupport ",
+      "query": "select * from GMRMYQGXMV.WireSupport"
+    },
+    "OLE Extraction-W4-GSDKUYVSFI.WireSupport ": {
+      " store": " OLEExtractionGSDKUYVSFI.WireSupport ",
+      "query": "select * from GSDKUYVSFI.WireSupport"
+    },
+    "OLE Extraction-W4-HETPBGZNNP.WireSupport ": {
+      " store": " OLEExtractionHETPBGZNNP.WireSupport ",
+      "query": "select * from HETPBGZNNP.WireSupport"
+    },
+    "OLE Extraction-W4-JZZKNKHRLV.WireSupport ": {
+      " store": " OLEExtractionJZZKNKHRLV.WireSupport ",
+      "query": "select * from JZZKNKHRLV.WireSupport"
+    },
+    "OLE Extraction-W4-KBWMFYAGDV.WireSupport ": {
+      " store": " OLEExtractionKBWMFYAGDV.WireSupport ",
+      "query": "select * from KBWMFYAGDV.WireSupport"
+    },
+    "OLE Extraction-W4-MIMRMOMDSG.WireSupport ": {
+      " store": " OLEExtractionMIMRMOMDSG.WireSupport ",
+      "query": "select * from MIMRMOMDSG.WireSupport"
+    },
+    "OLE Extraction-W4-MRAPDAJXQH.WireSupport ": {
+      " store": " OLEExtractionMRAPDAJXQH.WireSupport ",
+      "query": "select * from MRAPDAJXQH.WireSupport"
+    },
+    "OLE Extraction-W4-MUVOMTHWRU.WireSupport ": {
+      " store": " OLEExtractionMUVOMTHWRU.WireSupport ",
+      "query": "select * from MUVOMTHWRU.WireSupport"
+    },
+    "OLE Extraction-W4-TMTMBMMCEH.WireSupport ": {
+      " store": " OLEExtractionTMTMBMMCEH.WireSupport ",
+      "query": "select * from TMTMBMMCEH.WireSupport"
+    },
+    "OLE Extraction-W4-YNLIFCWDIO.WireSupport ": {
+      " store": " OLEExtractionYNLIFCWDIO.WireSupport ",
+      "query": "select * from YNLIFCWDIO.WireSupport"
+    },
+    "OLE Extraction-W4-ZSJLABTJVA.WireSupport ": {
+      " store": " OLEExtractionZSJLABTJVA.WireSupport ",
+      "query": "select * from ZSJLABTJVA.WireSupport"
+    },
+    "OLE Extraction-W4-EBTMXOOOJF.WireSupport ": {
+      " store": " OLEExtractionEBTMXOOOJF.WireSupport ",
+      "query": "select * from EBTMXOOOJF.WireSupport"
+    },
+    "OLE Extraction-W4-NQPPLWIVQX.WireSupport ": {
+      " store": " OLEExtractionNQPPLWIVQX.WireSupport ",
+      "query": "select * from NQPPLWIVQX.WireSupport"
+    },
+    "OLE Extraction-W4-PRICINBXCJ.WireSupport ": {
+      " store": " OLEExtractionPRICINBXCJ.WireSupport ",
+      "query": "select * from PRICINBXCJ.WireSupport"
+    },
+    "OLE Extraction-W4-QMQZFAJMXX.WireSupport ": {
+      " store": " OLEExtractionQMQZFAJMXX.WireSupport ",
+      "query": "select * from QMQZFAJMXX.WireSupport"
+    },
+    "OLE Extraction-W4-ROMYKPJKFL.WireSupport ": {
+      " store": " OLEExtractionROMYKPJKFL.WireSupport ",
+      "query": "select * from ROMYKPJKFL.WireSupport"
+    },
+    "OLE Extraction-W4-SMFZVHPFUD.WireSupport ": {
+      " store": " OLEExtractionSMFZVHPFUD.WireSupport ",
+      "query": "select * from SMFZVHPFUD.WireSupport"
+    },
+    "OLE Extraction-W4-XIMIQZWWMD.WireSupport ": {
+      " store": " OLEExtractionXIMIQZWWMD.WireSupport ",
+      "query": "select * from XIMIQZWWMD.WireSupport"
+    }
+  }
+}

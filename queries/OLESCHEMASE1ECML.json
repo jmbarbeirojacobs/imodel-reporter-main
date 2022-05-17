@@ -1,0 +1,34 @@
+{
+  "name": "ExportE1ECML",
+  "description": "simple example queries on how tool works",
+  "url": "https://connect-imodelweb.bentley.com/imodeljs/?projectId=274343c1-7baf-4176-82c2-5acffc93e8fa&iModelId=46327055-9fcd-4965-b2a1-43e19eb5fa2e",
+  "folder": "./OLESCHEMASE1ECML",
+  "queries": {
+    "Main Schemas OLEStructures": {
+      "store": "OLEStructures",
+      "query": "select * from bis.element where ec_classname(ecclassid,'c') = 'Structure' group by ecclassid"
+    },
+    "Main Schemas OLEWireSupport": {
+      "store": "OLEWireSupport",
+      "query": "select * from bis.element where ec_classname(ecclassid,'c') = 'WireSupport' group by ecclassid"
+    },
+    "Main Schemas OLEWire": {
+      "store": "OLEWire",
+      "query": "select * from bis.element where ec_classname(ecclassid,'c') = 'Wire' group by ecclassid"
+    },
+    "Main Schemas SPS": {
+      "store": "OLESPS",
+      "query": "select * from bis.element where ec_classname(ecclassid,'c') = 'Sps' group by ecclassid"
+    },
+    "Main Schemas Droptubes": {
+      "store": "OLEDroptubes",
+      "query": "select * from bis.element where ec_classname(ecclassid,'c') = 'Droptube' group by ecclassid"
+    },
+    "Asset Tags": {
+      "store": "ASSETTAGS",
+      "query": "select * from dgncustomitemtypes_central__x0020__data__x0020__warehouse.asset__x0020__informationelementaspect"
+    
+  }
+  }}
+
+  

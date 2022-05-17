@@ -1,0 +1,10 @@
+{
+  "name": "ExportW2B",
+  "description": "simple example queries on how tool works",
+  "url": "https://connect-imodelweb.bentley.com/imodeljs/?projectId=274343c1-7baf-4176-82c2-5acffc93e8fa&iModelId=b37eb02e-3bd1-440a-a804-2453bccac347",
+  "folder": "./OLEOUTPUTW2B",
+  "queries": {
+
+  
+  }
+}

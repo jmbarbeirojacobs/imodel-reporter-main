@@ -1,0 +1,13 @@
+{
+  "name": "ExportE1ECML",
+  "description": "simple example queries on how tool works",
+  "url": "https://connect-imodelweb.bentley.com/imodeljs/?projectId=274343c1-7baf-4176-82c2-5acffc93e8fa&iModelId=46327055-9fcd-4965-b2a1-43e19eb5fa2e",
+  "folder": "./OLEOUTPUTECML",
+  "queries": {
+    "OLE Extraction-E1ECML-GDPMDASSAR.Droptube ": { " store" : " OLEExtractionGDPMDASSAR.Droptube ", "query" : "select * from GDPMDASSAR.Droptube" },
+    "OLE Extraction-E1ECML-BEPNIPSLJA.Structure ": { " store" : " OLEExtractionBEPNIPSLJA.Structure ", "query" : "select * from BEPNIPSLJA.Structure" },
+    "OLE Extraction-E1ECML-TEEBVOQTFI.Sps ": { " store" : " OLEExtractionTEEBVOQTFI.Sps ", "query" : "select * from TEEBVOQTFI.Sps" },
+    "OLE Extraction-E1ECML-YKKGQXWSPJ.Sps ": { " store" : " OLEExtractionYKKGQXWSPJ.Sps ", "query" : "select * from YKKGQXWSPJ.Sps" }
+  }   }
+
+  

@@ -1,0 +1,2 @@
+ECInstanceId;ECClassId;Model;LastMod;CodeSpec;CodeScope;CodeValue;UserLabel;Parent;FederationGuid;JsonProperties
+"0x1100000377b6";"BEPNIPSLJA.Structure";{"id":"0x2000006c9fc","relClassName":"BisCore.ModelContainsElements"};"2021-10-25T09:48:08.638Z";{"id":"0x1","relClassName":"BisCore.CodeSpecSpecifiesCode"};{"id":"0x1","relClassName":"BisCore.ElementScopesCode"};;"E-299-19A";;"1a53cfcd-a058-4120-8283-f24b5873fddc";

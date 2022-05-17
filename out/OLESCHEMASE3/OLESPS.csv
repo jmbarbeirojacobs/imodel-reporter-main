@@ -1,0 +1,3 @@
+ECInstanceId;ECClassId;Model;LastMod;CodeSpec;CodeScope;CodeValue;UserLabel;Parent;FederationGuid;JsonProperties
+"0xf0000082204";"ATDFXQSNKG.Sps";{"id":"0xf0000000a71","relClassName":"BisCore.ModelContainsElements"};"2022-04-12T10:27:17.220Z";{"id":"0x1","relClassName":"BisCore.CodeSpecSpecifiesCode"};{"id":"0x1","relClassName":"BisCore.ElementScopesCode"};;"Sps";;"c7364f6e-54c1-463e-8837-71f9fdebd1e8";
+"0xf00000824bc";"Sps.Sps";{"id":"0xf0000000a71","relClassName":"BisCore.ModelContainsElements"};"2022-04-12T10:27:20.127Z";{"id":"0x1","relClassName":"BisCore.CodeSpecSpecifiesCode"};{"id":"0x1","relClassName":"BisCore.ElementScopesCode"};;"Sps";;"0603de52-0aec-4fc4-9679-e18243e6d525";
