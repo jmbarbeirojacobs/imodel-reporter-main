@@ -1,0 +1,65 @@
+{
+  "main": "lib/Main.js",
+  "license": "MIT",
+  "version": "1.0.0",
+  "scripts": {
+    "build": "tsc 1>&2 && npm run copy:test-assets",
+    "clean": "rimraf lib out",
+    "lint": "eslint -f visualstudio \"./src/**/*.ts\" 1>&2",
+    "start": "node ./lib/main.js",
+    "start:snapshot": "node ./lib/MainSnapshot.js",
+    "test": "mocha ./lib/tests/*.test.js",
+    "copy:test-assets": "cpx \"./src/tests/assets/**/{*,.*}\" ./lib/tests/assets"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/imodeljs/imodel-reporter"
+  },
+  "dependencies": {
+    "@bentley/backend-itwin-client": "^2.19.2",
+    "@bentley/bentleyjs-core": "^2.19.2",
+    "@bentley/ecschema-metadata": "^2.19.2",
+    "@bentley/electron-manager": "^2.19.2",
+    "@bentley/geometry-core": "^2.19.2",
+    "@bentley/imodelhub-client": "^2.19.2",
+    "@bentley/imodeljs-backend": "^2.19.2",
+    "@bentley/imodeljs-common": "^2.19.2",
+    "@bentley/presentation-common": "^2.19.2",
+    "@bentley/itwin-client": "^2.19.2",
+    "@bentley/rbac-client": "^2.19.2",
+    "@bentley/telemetry-client": "^2.19.2",
+    "electron": "^11.1.0"
+  },
+  "devDependencies": {
+    "@bentley/build-tools": "^2.19.2",
+    "@bentley/eslint-plugin": "^2.19.2",
+    "@types/chai": "^4.2.14",
+    "@types/mocha": "^8.2.0",
+    "@types/node": "^12.18.3",
+    "@typescript-eslint/eslint-plugin": "^4.15.0",
+    "@typescript-eslint/parser": "^4.15.0",
+    "chai": "^4.2.0",
+    "eslint": "^7.19.0",
+    "eslint-config-prettier": "^7.2.0",
+    "mocha": "^8.2.1",
+    "rimraf": "^2.6.2",
+    "ts-node": "^9.1.1",
+    "typescript": "~4.3.5"
+  },
+  "eslintConfig": {
+    "plugins": [
+      "@bentley"
+    ],
+    "extends": "plugin:@bentley/imodeljs-recommended",
+    "rules": {
+      "@typescript-eslint/naming-convention": "off",
+      "dot-notation": "off",
+      "no-console": "off"
+    }
+  },
+  "mocha": {
+    "timeout": 60000,
+    "exit": true,
+    "check-leaks": true
+  }
+}
